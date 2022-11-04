@@ -1,6 +1,6 @@
 <h1 align="center">{⚽} &lt;nlw/&gt; COPA</h1>
 
-<p>Aplicação desenvolvida na &lt;nlw/&gt; COPA da Rocketseat com o calendário de jogos do Brasil na Copa de 2022.</p>
+<p>Aplicação desenvolvida na <strong>&lt;nlw/&gt; COPA</strong> da Rocketseat com o calendário de jogos do Brasil na Copa de 2022.</p>
 
 ![Imagem do projeto](./see-project/img01.png)
 
